@@ -18,4 +18,3 @@ for a0 in (0..t-1)
   
   puts count
 end
-
